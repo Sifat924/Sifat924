@@ -30,5 +30,5 @@ reflect my learning process and beginner-level projects.
 
 ### Goal
 To complete a Bachelor’s degree in Computer Science and later specialize in
-Cybersecurity and Information Security through advanced study and practical training.
+Cybersecurity and Information Security through advanced study and practical learning.
 
